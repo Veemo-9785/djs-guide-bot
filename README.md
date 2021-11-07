@@ -2,4 +2,6 @@
 
 <h2>Usage + cloning</h2>
 Install dependencies with
-```npm install```
+```
+npm install
+```
