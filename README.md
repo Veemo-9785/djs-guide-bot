@@ -3,4 +3,4 @@ Built from the https://discordjs.guide website guide.
 
 <h2>Usage + cloning</h2>
 
-``` $ npm install ```
+Download dependencies with ``` $ npm install ```
