@@ -2,6 +2,4 @@
 
 <h2>Usage + cloning</h2>
 Install dependencies with
-```bash
-npm install
-```
+`$ npm install`
